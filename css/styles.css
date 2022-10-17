@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    background-color: #eeffab;
+    color: #f2b96d;
+    font-weight: 800;
+}
+
+h2 {
+    background-color: #93cc99;
+    color: #f2b96d;
+    font-weight: 800;
+}
+
+.text,
+ul li,
+ol li {
+    background-color: #f7a8df;
+    color: white;
+    font-size: medium;
+}
